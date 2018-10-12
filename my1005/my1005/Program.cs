@@ -19,6 +19,7 @@ namespace OpenDataImport
         {
             List<OpenData> result = new List<OpenData>();
 
+            var ss = XElement.Load(@"C:\Users\user\Desktop\軟體工程\data.xml");
             var xml = XElement.Load(@"C:\Users\user\Desktop\軟體工程\data.xml");
 
             var nodes = xml.Descendants("node").ToList();
