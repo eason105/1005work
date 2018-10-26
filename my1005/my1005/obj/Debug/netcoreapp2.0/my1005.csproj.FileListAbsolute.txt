@@ -9,3 +9,14 @@ C:\Users\user\source\repos\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.Assembly
 C:\Users\user\source\repos\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.AssemblyInfo.cs
 C:\Users\user\source\repos\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.dll
 C:\Users\user\source\repos\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.pdb
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\bin\Debug\netcoreapp2.0\my1005.deps.json
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\bin\Debug\netcoreapp2.0\my1005.runtimeconfig.json
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\bin\Debug\netcoreapp2.0\my1005.runtimeconfig.dev.json
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\bin\Debug\netcoreapp2.0\my1005.dll
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\bin\Debug\netcoreapp2.0\my1005.pdb
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.csprojAssemblyReference.cache
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.AssemblyInfo.cs
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.dll
+C:\Users\user\Desktop\軟體工程2\my1005\my1005\obj\Debug\netcoreapp2.0\my1005.pdb
